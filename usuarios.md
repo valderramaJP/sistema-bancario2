@@ -11,3 +11,4 @@ A continuación se encuentra el listado de usuarios registrados en la app, forma
 - Wilmar Fernando Agudelo - WFAGUDEL
 - Sara Henao - SHENAO
 - Beatriz Jimenez- BJIMENEZ
+- Wbeimar Lopera - WALOPERA
