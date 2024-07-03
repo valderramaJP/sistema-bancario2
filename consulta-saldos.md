@@ -12,3 +12,4 @@
  | Cuenta de Ahorros | $5,000.00 | 
  | Fondo de Inversión | $10,000.00 | 
  | Tarjeta de Crédito | $-1,200.00 |
+ | Credito Hipotecario | $8,200.00 |
