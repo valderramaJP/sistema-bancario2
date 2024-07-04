@@ -13,3 +13,4 @@
  | Fondo de Inversión | $10,000.00 | 
  | Tarjeta de Crédito | $-1,200.00 |
  | Credito Hipotecario | $8,200.00 |
+ | Saldo a favor| $200.00 |
