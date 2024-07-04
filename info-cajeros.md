@@ -23,4 +23,14 @@
   - Pago de Servicios
 - **Contacto de Soporte:** 0800-234-5678
 
+## Cajero Automático 3
 
+- **Ubicación:** Centro Comercial Plaza, Nivel 5
+- **Horario de Atención:** 10:00 AM - 10:00 PM
+- **Servicios Disponibles:**
+  - Retiros
+  - Depósitos
+  - Consulta de Saldo
+  - Transferencias
+  - Pago de Servicios
+- **Contacto de Soporte:** 0800-234-5678
