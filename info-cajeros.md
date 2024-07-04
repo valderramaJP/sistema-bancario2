@@ -34,3 +34,15 @@
   - Transferencias
   - Pago de Servicios
 - **Contacto de Soporte:** 0800-234-5678
+
+## Cajero Automático 4
+
+- **Ubicación:** Centro Comercial Plaza, Nivel 6
+- **Horario de Atención:** 8:00 AM - 8:00 PM
+- **Servicios Disponibles:**
+  - Retiros
+  - Depósitos
+  - Consulta de Saldo
+  - Transferencias
+  - Pago de Servicios
+- **Contacto de Soporte:** 0800-2222-5678
